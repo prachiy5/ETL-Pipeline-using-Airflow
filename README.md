@@ -103,6 +103,14 @@ Follow these steps to set up and execute the ETL pipeline:
 - Transformed data is inserted into a PostgreSQL database.
 - The stored data can be queried for analytics or used for visualization.
 
+  ## 🙏 Acknowledgments
+
+I built this project by following [Krish Naik's](https://www.youtube.com/c/KrishNaik) excellent tutorial on ETL pipelines with Apache Airflow. A big thank you for providing such clear and practical guidance that made learning and implementing this project seamless.
+
+---
+
+For any questions or feedback, feel free to reach out via [email](mailto:yadavprachi5898@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prachi-yadav-559222189/). 🚀
+
 ---
 
 This README provides the necessary instructions and insights to run and understand the ETL pipeline. For more details, refer to the rest of the documentation or the source code.
